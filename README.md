@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Binary Array Linked Data
 
-You can use the [editor on GitHub](https://github.com/binary-array-ld/binary_array-ld.net/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Binary array linked data is a community effort to manage large quantities of large volume data sets, comprised of arrays of numberical data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Binary array linked data attempts to provide tools and techniques to interpret the metadata of such data payloads whilst keeping the bulk of the information encoded within the binary containers.
 
-### Markdown
+Binary array linked data promotes linked data principles and publishing strategies for metadata.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Open Geospatial Consortium 
 
-```markdown
-Syntax highlighted code block
+The Open Geospatial Consortium (OGC) are sponsors of the efforts to make specific encoding standards to support Binary Array Linked data across a number of binary data formats.
 
-# Header 1
-## Header 2
-### Header 3
+* netCDF
+    * https://github.com/opengeospatial/netCDF-Classic-LD
 
-- Bulleted
-- List
+## Vocabulary Resources
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/binary-array-ld/binary_array-ld.net/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* http://def.binary-array-ld.net
+* http://def.scitools.org.uk
