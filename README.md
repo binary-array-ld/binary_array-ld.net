@@ -1,7 +1,3 @@
----
-title: Binary Array Linked Data
----
-
 ## Binary Array Linked Data
 
 Binary array linked data is a community effort to manage large quantities of large volume data sets, comprised of arrays of numberical data.
