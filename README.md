@@ -15,7 +15,7 @@ The Open Geospatial Consortium (OGC) are sponsors of the efforts to make specifi
 
 ## Vocabulary Resources
 
-* [https://www.opengis.net/def/binary-array-ld/] (https://www.opengis.net/def/binary-array-ld/)
-* [https://www.opengis.net/def/binary-array-ld] (https://www.opengis.net/def/binary-array-ld)
+* [https://www.opengis.net/def/binary-array-ld/](https://www.opengis.net/def/binary-array-ld/)
+* [https://www.opengis.net/def/binary-array-ld](https://www.opengis.net/def/binary-array-ld)
 * [http://def.binary-array-ld.net](http://def.binary-array-ld.net)
 * [http://def.scitools.org.uk](http://def.scitools.org.uk)
