@@ -11,7 +11,7 @@ Binary array linked data promotes linked data principles and publishing strategi
 The Open Geospatial Consortium (OGC) are sponsors of the efforts to make specific encoding standards to support Binary Array Linked data across a number of binary data formats.
 
 * netCDF
-    * [https://github.com/opengeospatial/netCDF-Classic-LD](https://github.com/opengeospatial/netCDF-Classic-LD)
+    * [https://github.com/opengeospatial/netCDF-LD](https://github.com/opengeospatial/netCDF-LD)
 
 ## Vocabulary Resources
 
